@@ -9,7 +9,7 @@ with st.container():
 with st.container():
     st.write("---")
     st.header("Social Medias")
-    st.write("[Discord](https://discord.com/users/933240889357254687) [Discord Server](https://discord.gg/JpwjCSNe6Z)")
+    st.write("Discord: [User](https://discord.com/users/933240889357254687) [Server](https://discord.gg/JpwjCSNe6Z)")
     st.write("[GitHub](https://github.com/ipigtw)")
     st.write("[Twitter](https://twitter.com/ipigtw)")
     st.write("[YouTube](https://www.youtube.com/@ipigtaiwan)")
