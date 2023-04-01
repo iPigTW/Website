@@ -10,18 +10,8 @@ with st.container():
 with st.container():
     st.write("---")
     st.header("Social Medias")
-    discord = st.button("Discord")
-    if discord:
-        webbrowser.open('https://discord.gg/JpwjCSNe6Z')
-    twitter = st.button("Twitter")
-    if twitter:
-        webbrowser.open('https://twitter.com/iPigTW')
-    github = st.button("GitHub")
-    if github:
-        webbrowser.open('https://github.com/ipigtw')
-    youtube = st.button("YouTube")
-    if youtube:
-        webbrowser.open('https://youtube.com/@ipigtaiwan')
-    twitch = st.button("Twitch")
-    if twitch:
-        webbrowser.open('https://twitch.tv/ipigtw')
+    st.write("[Discord](https://discord.com/users/933240889357254687)")
+    st.write("[GitHub](https://'github.com/ipigtw)")
+    st.write("[Twitter](https://twitter.com/ipigtw)")
+    st.write("[YouTube](https://www.youtube.com/@ipigtaiwan)")
+    st.write("[Twitch](https://www.twitch.tv/ipigtw)")
